@@ -1,3 +1,3 @@
 # codess-practice
 
-Isha-Agarwal
+Isha Agarwal
